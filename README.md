@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.org/odoo-ecuador/odoo-ecuador.svg?branch=9.0)](https://travis-ci.org/odoo-ecuador/odoo-ecuador)
+[![Build Status](https://travis-ci.org/odoo-ecuador/odoo-ecuador.svg?branch=9.0)](https://travis-ci.org/odoo-ecuador/odoo-ecuador) [![Coverage Status](https://coveralls.io/repos/github/ovnicraft/odoo-ecuador/badge.svg?branch=9.0)](https://coveralls.io/github/ovnicraft/odoo-ecuador?branch=9.0)
 
 Localizacion de OpenERP para Ecuador
 ====================================
